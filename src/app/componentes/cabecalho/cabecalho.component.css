@@ -1,0 +1,15 @@
+.cabecalho {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    border-bottom: 2px solid #4DAACF;
+    padding-bottom: 40px
+    
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Ubuntu", serif;;
+}

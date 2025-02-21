@@ -1,0 +1,10 @@
+h2 {
+    color: #4DAACF;
+    font-family: 'Ubuntu';
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    border-bottom: 1.6px solid #4DAACF;
+    text-transform: uppercase;
+}
